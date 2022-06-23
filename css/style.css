@@ -1,0 +1,8 @@
+*{
+	box-sizing: border-box;
+}
+
+header{
+	width: 840px;
+	margin: auto;
+}
